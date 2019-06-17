@@ -13,5 +13,5 @@ Response: {"id":15117729,"name":null,"current_price":null} <br/>
 
 # Process to run Application
 
-Go to TargetApplication.java, click as run as Java Application.
+Go to TargetApplication.java, click on run as Java Application.
 
