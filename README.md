@@ -2,7 +2,7 @@
 
 API: /products/13860428 - GET </br>
 /products/{id}: Is GET Request, accepts productId as path variable and return JSON response.</br>
-For Invalid URL: we JSON response with null Values. </br>
+For Invalid URL: we get JSON response with null Values. </br>
 
 Example: <br/>
 API: http://127.0.0.1:8080/products/13860428 </br>
